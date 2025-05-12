@@ -1,0 +1,16 @@
+Introducción a las clases básicas del chatbot Llama
+Objetivo: Crear las clases base para manejar usuarios, mensajes y la interacción con la IA.
+Archivos:
+usuario.py: Clase para manejar los usuarios y sus interacciones.
+mensaje.py: Clase para representar los mensajes en el chat.
+llama_ia.py: Clase para simular la IA del chatbot.
+chat.py: Clase para manejar el flujo de mensajes entre usuarios y la IA.
+2. Mejoras en la interacción del chatbot
+Objetivo: Añadir funcionalidades para mejorar las respuestas del chatbot y el manejo del historial.
+Archivos:
+chat.py: Ampliar el chat con funciones avanzadas.
+llama_ia.py: Mejorar la lógica de respuestas simulando más inteligencia.
+3. Persistencia y almacenamiento de datos
+Objetivo: Almacenar el historial de chat en archivos o bases de datos.
+Archivos:
+database.py: Clase para conectar y guardar conversaciones en una base de datos o archivo.
